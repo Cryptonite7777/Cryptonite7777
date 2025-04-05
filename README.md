@@ -21,7 +21,7 @@
 
 ## 🌐 My Blog
 <div align="center">
-  <a href="https://Cryptonite7777.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://Cryptonite7777.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
@@ -40,7 +40,7 @@
 <details>
   <summary>Click to see my works!</summary>
   
-  ### Reversing
-  - <b>[Dreamhack] Rev-basic write up</b>&nbsp;&nbsp;<a href="https://cryptonite7777.github.io/categories/dreamhack"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white" alt="View" align="middle"></a>
+### Reversing
+  - <b>[Dreamhack] Rev-basic write up</b>  <a href="https://cryptonite7777.github.io/categories/dreamhack" target="_blank"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white" alt="View" align="middle"></a>
 
 </details>
