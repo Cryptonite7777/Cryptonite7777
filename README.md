@@ -39,9 +39,7 @@
 ## 🛡️ Projects
 <details>
   <summary>Click to see my works!</summary>
-
-  ### C++
-
+  
   ### Reversing
   - <b>[Dreamhack] Rev-basic write up</b>&nbsp;&nbsp;<a href="https://cryptonite7777.github.io/categories/dreamhack"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white" alt="View" align="middle"></a>
 
