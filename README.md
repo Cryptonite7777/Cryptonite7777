@@ -44,6 +44,6 @@
   - <b>[Dreamhack] Rev-basic write up : </b>  <a href="https://cryptonite7777.github.io/categories/dreamhack/" target="_blank"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white" alt="View" align="middle"></a>
 
 ### CheatEngine
-  - <b>[Dreamhack] CheatEngine Tutorial : </b>  <a href="https://cryptonite7777.github.io/categories/cheatengine/" target="_blank"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white" alt="View" align="middle"></a>
+  - <b> CheatEngine Tutorial : </b>  <a href="https://cryptonite7777.github.io/categories/cheatengine/" target="_blank"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white" alt="View" align="middle"></a>
 
 </details>
